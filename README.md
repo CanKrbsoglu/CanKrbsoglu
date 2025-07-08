@@ -8,6 +8,9 @@
 - ⚡ I automate everything that can be automated!
 
 ---
+### 🐍 GitHub Activity Snake
+
+![snake gif](https://github.com/KULLANICIADIN/KULLANICIADIN/blob/output/github-contribution-grid-snake.svg)
 
 ### 💻 Tech Stack
 
