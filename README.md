@@ -8,10 +8,6 @@
 - ⚡ I automate everything that can be automated!
 
 ---
-### 🐍 GitHub Activity Snake
-
-
-![snake gif](https://github.com/CanKrbsoglu/CanKrbsoglu/blob/output/github-contribution-grid-snake.svg)
 
 ### 💻 Tech Stack
 
